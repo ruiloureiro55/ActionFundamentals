@@ -70,3 +70,4 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 ## Test push
 Modify and commit: triggers build (push)
+Again but not will write [skip ci] in the message to ignore ci
